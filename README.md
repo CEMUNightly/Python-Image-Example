@@ -1,16 +1,29 @@
-# Python-Image-Example
-A easy python windows, with images, using Tkinter. Easy to edit 
 
-# English Description
+![Logo](https://i.ibb.co/hCcTM0z/Captura-de-pantalla-2023-04-23-042024.png)
 
-hi , i´m cemunightly ;D
-i´ve created this "Image python example" only for entertainment pourposes
-but you can edit it, freedom, i don´t have issues
-enjoy jeje!
+# Python Image (and Window) Example ✅
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-"maik wasauski"
-despite all... hmmm all, i hope this can help you 
-yep :)
+Hello, I'm CEMUNightly ;D
 
-sorry for my bad english :(
+I created this "Python-image-example" just for fun, but since some users were interested (especially those less experienced in the language) I decided to release this little code.
 
+Below you will find a small tutorial on how to create your own, export it to .exe, or make it compatible with Windows 7 and 8.
+
+I hope you like it <3
+
+## Author (＾◡＾)
+
+- [@CEMUNightly](https://www.github.com/CEMUNightly)
+👉🏼 Follow me pls u.u, it´s free :D 
+
+
+## How to compile, or do it yourself 🤔
+
+
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
