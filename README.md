@@ -14,13 +14,3 @@ yep :)
 
 sorry for my bad english :(
 
-# Descripción en Español
-
-Hola, soy CEMUNightly ;D
-Cree este ejemplo de imagen en python, solo con fines de diversion xd
-pero puedes editarlo, todito jej
-no tengo problema
-disfruta!
-
-yep :)
-
