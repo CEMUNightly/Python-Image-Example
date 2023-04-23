@@ -20,10 +20,4 @@ I hope you like it <3
 
 ## How to compile, or do it yourself 🤔
 
-
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
+Right now ehhhh.... You can't. This is because I am making some improvements to make it substantially better, but you can try the original version, which is here on the github. I'll upload the code soon.
